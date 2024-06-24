@@ -22,7 +22,7 @@ Installation
 Clone the repository:
 sh
 Copy code
-git clone https://github.com/your-username/boutique-website.git
+git clone https://github.com/manojmanoj143/boutique-website.git
 Open index.html in your web browser.
 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
@@ -38,4 +38,4 @@ Distributed under the MIT License. See LICENSE for more information.
 Contact
 mail- manojmanoj88680@gmail.com
 
-Project Link: https://github.com/your-username/boutique-website
+Project Link: https://github.com/manojmanoj143/boutique-website
